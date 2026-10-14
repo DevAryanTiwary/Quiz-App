@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": "2026-10-03T16:03:51.600423+00:00",
+    "name": "aryan",
+    "category": "Python",
+    "mode": "Standard",
+    "difficulty": "Standard (Mixed)",
+    "score": 36,
+    "total": 60,
+    "accuracy": 66.66666666666666,
+    "avg_time": 9.812000000000001,
+    "badges": []
+  },
+  {
+    "timestamp": "2026-10-05T17:58:38.665144+00:00",
+    "name": "akhil",
+    "category": "General Knowledge",
+    "mode": "Standard",
+    "difficulty": "Standard (Mixed)",
+    "score": 16,
+    "total": 20,
+    "accuracy": 80.0,
+    "avg_time": 9.45,
+    "badges": []
+  },
+  {
+    "name": "aditya",
+    "category": "Python",
+    "score": 12,
+    "total": 12
+  },
+  {
+    "timestamp": "2026-10-02T09:19:31.378849+00:00",
+    "name": "vushal",
+    "category": "Python",
+    "mode": "Standard",
+    "difficulty": "Standard (Mixed)",
+    "score": 3,
+    "total": 20,
+    "accuracy": 20.0,
+    "avg_time": 11.312000000000001,
+    "badges": []
+  },
+  {
+    "name": "vivek",
+    "category": "Python",
+    "score": -15,
+    "total": 60
+  }
+]

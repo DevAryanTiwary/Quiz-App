@@ -1,0 +1,16 @@
+2026-10-02 14:47:21 [INFO] QuizMaster: Loaded 45 questions across 3 categories.
+2026-10-02 14:47:21 [WARNING] QuizMaster: Could not parse settings.json (Expecting value: line 1 column 1 (char 0)). Rebuilding defaults.
+2026-10-02 14:47:21 [INFO] QuizMaster: Preferences successfully serialized.
+2026-10-02 14:48:10 [INFO] QuizMaster: Quiz initialized: Player='vushal', Cat='Python', Mode='Quick Quiz (5 Qs)', Count=5.
+2026-10-02 14:49:31 [INFO] QuizMaster: Recorded attempt for 'vushal' with score 3.
+2026-10-02 14:50:00 [INFO] QuizMaster: Application closed by user.
+2026-10-03 21:30:23 [INFO] QuizMaster: Loaded 45 questions across 3 categories.
+2026-10-03 21:30:50 [INFO] QuizMaster: Quiz initialized: Player='aryan', Cat='Python', Mode='Standard', Count=15.
+2026-10-03 21:33:51 [INFO] QuizMaster: Recorded attempt for 'aryan' with score 36.
+2026-10-05 23:26:34 [INFO] QuizMaster: Loaded 45 questions across 3 categories.
+2026-10-05 23:27:27 [INFO] QuizMaster: Quiz initialized: Player='akhil', Cat='General Knowledge', Mode='Quick Quiz (5 Qs)', Count=5.
+2026-10-05 23:28:38 [INFO] QuizMaster: Recorded attempt for 'akhil' with score 16.
+2026-10-05 23:30:06 [INFO] QuizMaster: Application closed by user.
+2026-10-07 13:56:09 [INFO] QuizMaster: Loaded 45 questions across 3 categories.
+2026-10-07 13:56:37 [INFO] QuizMaster: Quiz initialized: Player='sdyuio', Cat='Python', Mode='Quick Quiz (10 Qs)', Count=5.
+2026-10-07 13:57:27 [INFO] QuizMaster: Application closed by user.

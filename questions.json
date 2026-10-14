@@ -1,0 +1,238 @@
+{
+  "Python": [
+    {
+      "question": "Which keyword is used to define a function in Python?",
+      "options": ["func", "def", "function", "lambda"],
+      "answer": "def"
+    },
+    {
+      "question": "Which data type is immutable in Python?",
+      "options": ["List", "Dictionary", "Tuple", "Set"],
+      "answer": "Tuple"
+    },
+    {
+      "question": "What is the output of print(2 ** 3)?",
+      "options": ["6", "8", "9", "5"],
+      "answer": "8"
+    },
+    {
+      "question": "Which built-in function returns the length of an object?",
+      "options": ["count()", "size()", "length()", "len()"],
+      "answer": "len()"
+    },
+    {
+      "question": "What is the correct file extension for Python files?",
+      "options": [".pyth", ".pt", ".py", ".pyt"],
+      "answer": ".py"
+    },
+    {
+      "question": "Which operator is used for floor division in Python?",
+      "options": ["/", "//", "%", "^"],
+      "answer": "//"
+    },
+    {
+      "question": "How do you start a single-line comment in Python?",
+      "options": ["//", "/*", "#", "--"],
+      "answer": "#"
+    },
+    {
+      "question": "What is the output of bool(0)?",
+      "options": ["True", "False", "None", "Error"],
+      "answer": "False"
+    },
+    {
+      "question": "Which method removes and returns the last element from a list?",
+      "options": ["pop()", "remove()", "discard()", "delete()"],
+      "answer": "pop()"
+    },
+    {
+      "question": "Which collection type does not allow duplicate members?",
+      "options": ["List", "Tuple", "Set", "Array"],
+      "answer": "Set"
+    },
+    {
+      "question": "What keyword is used to create a generator function in Python?",
+      "options": ["return", "generate", "yield", "produce"],
+      "answer": "yield"
+    },
+    {
+      "question": "Which error is raised when trying to access a non-existent dictionary key?",
+      "options": ["IndexError", "KeyError", "ValueError", "TypeError"],
+      "answer": "KeyError"
+    },
+    {
+      "question": "What is the output of type([]) in Python?",
+      "options": ["<class 'tuple'>", "<class 'array'>", "<class 'set'>", "<class 'list'>"],
+      "answer": "<class 'list'>"
+    },
+    {
+      "question": "Which module in Python is used to generate pseudo-random numbers?",
+      "options": ["math", "random", "secrets", "numbers"],
+      "answer": "random"
+    },
+    {
+      "question": "What does PEP stand for in Python?",
+      "options": [
+        "Python Enhancement Proposal",
+        "Python Execution Process",
+        "Python Engine Protocol",
+        "Programming Extension Platform"
+      ],
+      "answer": "Python Enhancement Proposal"
+    }
+  ],
+  "Science": [
+    {
+      "question": "What is the chemical symbol for Gold?",
+      "options": ["Ag", "Au", "Pb", "Fe"],
+      "answer": "Au"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "answer": "Mars"
+    },
+    {
+      "question": "What gas do plants absorb during photosynthesis?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "answer": "Carbon Dioxide"
+    },
+    {
+      "question": "What is the powerhouse of the cell?",
+      "options": ["Nucleus", "Ribosome", "Mitochondria", "Endoplasmic Reticulum"],
+      "answer": "Mitochondria"
+    },
+    {
+      "question": "What is the SI unit of electrical resistance?",
+      "options": ["Watt", "Ohm", "Ampere", "Volt"],
+      "answer": "Ohm"
+    },
+    {
+      "question": "At what temperature does water boil under standard atmospheric pressure?",
+      "options": ["90°C", "100°C", "110°C", "120°C"],
+      "answer": "100°C"
+    },
+    {
+      "question": "What is the most abundant gas in Earth's atmosphere?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"],
+      "answer": "Nitrogen"
+    },
+    {
+      "question": "What is the hardest natural substance known on Earth?",
+      "options": ["Quartz", "Topaz", "Diamond", "Titanium"],
+      "answer": "Diamond"
+    },
+    {
+      "question": "Which particle in an atom carries a negative electric charge?",
+      "options": ["Proton", "Neutron", "Electron", "Positron"],
+      "answer": "Electron"
+    },
+    {
+      "question": "What force pulls objects toward the center of the Earth?",
+      "options": ["Centrifugal Force", "Magnetism", "Gravity", "Friction"],
+      "answer": "Gravity"
+    },
+    {
+      "question": "What is the pH level of pure water at 25°C?",
+      "options": ["5", "7", "9", "0"],
+      "answer": "7"
+    },
+    {
+      "question": "Which human blood cells are responsible for carrying oxygen?",
+      "options": ["White Blood Cells", "Red Blood Cells", "Platelets", "Plasma"],
+      "answer": "Red Blood Cells"
+    },
+    {
+      "question": "Which planet has the most prominent ring system in our solar system?",
+      "options": ["Jupiter", "Uranus", "Neptune", "Saturn"],
+      "answer": "Saturn"
+    },
+    {
+      "question": "What is the speed of light in a vacuum approximately?",
+      "options": ["300,000 km/s", "150,000 km/s", "30,000 km/s", "3,000 km/s"],
+      "answer": "300,000 km/s"
+    },
+    {
+      "question": "What type of lens is used to correct myopia (nearsightedness)?",
+      "options": ["Convex lens", "Concave lens", "Cylindrical lens", "Bifocal lens"],
+      "answer": "Concave lens"
+    }
+  ],
+  "General Knowledge": [
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+      "answer": "Leonardo da Vinci"
+    },
+    {
+      "question": "Which is the largest ocean on Earth?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "answer": "Pacific Ocean"
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "options": ["Seoul", "Beijing", "Tokyo", "Bangkok"],
+      "answer": "Tokyo"
+    },
+    {
+      "question": "In which country can you find the ancient Pyramids of Giza?",
+      "options": ["Greece", "Egypt", "Mexico", "Turkey"],
+      "answer": "Egypt"
+    },
+    {
+      "question": "Which is the longest river in the world?",
+      "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+      "answer": "Nile River"
+    },
+    {
+      "question": "Who is credited with inventing the telephone?",
+      "options": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla", "Guglielmo Marconi"],
+      "answer": "Alexander Graham Bell"
+    },
+    {
+      "question": "How many continents are there on Earth?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "7"
+    },
+    {
+      "question": "What is the currency of the United Kingdom?",
+      "options": ["Euro", "Dollar", "Pound Sterling", "Franc"],
+      "answer": "Pound Sterling"
+    },
+    {
+      "question": "Which country is home to the Great Barrier Reef?",
+      "options": ["Australia", "Brazil", "New Zealand", "South Africa"],
+      "answer": "Australia"
+    },
+    {
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+      "answer": "William Shakespeare"
+    },
+    {
+      "question": "Which is the smallest country in the world by land area?",
+      "options": ["Monaco", "San Marino", "Vatican City", "Liechtenstein"],
+      "answer": "Vatican City"
+    },
+    {
+      "question": "What is the national animal of India?",
+      "options": ["Lion", "Royal Bengal Tiger", "Elephant", "Leopard"],
+      "answer": "Royal Bengal Tiger"
+    },
+    {
+      "question": "In which year did World War II end?",
+      "options": ["1943", "1944", "1945", "1946"],
+      "answer": "1945"
+    },
+    {
+      "question": "Which organ in the human body pumps blood throughout the circulatory system?",
+      "options": ["Lungs", "Brain", "Liver", "Heart"],
+      "answer": "Heart"
+    },
+    {
+      "question": "What is the tallest mountain peak in the world above sea level?",
+      "options": ["K2", "Mount Kilimanjaro", "Mount Everest", "Denali"],
+      "answer": "Mount Everest"
+    }
+  ]
+}
